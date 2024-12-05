@@ -39,4 +39,7 @@ Run program (python hello.py)
 % Input will ask the user their name but hello, world will print because the argument is not written as part of the print function.
 
 Functions have Return Values that give us an answer to an argument that was inputed to our function.
+
+# 0.3 Variables
 Variables are place holders for values we write in our code that can give our Functions different outputs.
+% Similar in math class to the variables that we work with some have fixed values and some have what values we give them.
