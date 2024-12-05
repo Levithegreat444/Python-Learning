@@ -4,7 +4,7 @@ I am using this repository to take notes and following along the CS50P lecture v
 
 
 # Lecture 0
-### 0.1 - Functions, Variables
+# 0.1 - Functions, Variables
 These lessons are all performed on a text editor program named "Visual Studio Code"
 
 Inside the terminal window is a comand line interface that communicates with the underlying computer.
@@ -14,7 +14,7 @@ code [Insert file name]
 File name - hello.py
 % the [.py] lets us know the code is written in python language
 
-## Beginning coding and writting scripts.
+### Beginning coding and writting scripts.
 % print is a function showing text/etc.
 print("hello, world")
 
@@ -22,7 +22,7 @@ In the terminal window we can type the comand [python. hello.py] to run our scri
 Hit enter and the program should run
 hello, world will print
 
-### 0.2 - Functions
+# 0.2 - Functions
 Functions allow us to program actions to the command line interface.
 Functions require Arguments which are inputs that influences the behavior of the function.
 Functions must be contained within parentheses.
@@ -31,7 +31,7 @@ A mistake that is written within a program effects its functionality and these a
 
 % Language written within a computer program must be specific or the programe will not run.
 
-## Beginning interactive script
+### Beginning interactive script
 input("What's your name? ")
 print("hello, world')
 
